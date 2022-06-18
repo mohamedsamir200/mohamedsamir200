@@ -1,4 +1,4 @@
-## Hi there, I'm Mohamed Samir 
+## Hi there 👋, I'm Mohamed Samir 
   <img  align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="400" />
 
 
@@ -11,9 +11,13 @@
 
 🎓 &nbsp;I'm Front-End Developer
 
+💪 &nbsp; I’m looking to collaborate on new projects
+
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
 
-🏢 &nbsp; I’m currently working as a freelancer
+👌 &nbsp; My favorite quote: The expert in anything was once a beginner
+
+💻 &nbsp; I’m currently working as a freelancer
 
 📫  &nbsp; How to reach me : mohamedsamra321@gmail.com
 
