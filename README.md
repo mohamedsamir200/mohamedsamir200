@@ -39,6 +39,10 @@
  <img alt="html5" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" />
  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
+ <img alt="oop" src="https://img.shields.io/badge/-oop-05122A?style=flat&logo=oop" />
+ <img alt="jquery" src="https://img.shields.io/badge/-jqury-05122A?style=flat&logo=jquery" />
+
+
 </p>
 
 <hr>
