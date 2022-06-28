@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Mohamed Samir 
-  <img  align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%"  />
+  <img  align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%"  />
 
 
 <!-- <img align="right" src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" alt="Coder GIF" width="400" height="300">
