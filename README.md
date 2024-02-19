@@ -17,7 +17,7 @@
 
 👌 &nbsp; My favorite quote: The expert in anything was once a beginner
 
-💻 &nbsp; I’m currently working as a freelancer
+💻 &nbsp; I'm currently Looking For Job
 
 📫  &nbsp; How to reach me : mohamedsamra321@gmail.com
 
@@ -47,12 +47,6 @@
 
 <hr>
 
-### ⚙️ &nbsp;GitHub Analytics
-<p>
-  
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUYASHPATIL400&show_icons=true&theme=radical" />
-
-</a>
 </p>
 
 ## Contact with me on
