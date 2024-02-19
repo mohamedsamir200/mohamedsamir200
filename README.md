@@ -56,7 +56,7 @@
   <a href="https://www.linkedin.com/in/mohamed-samir-7bb66a242/" target="_blank">
    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> 
   </a>
-    <a href="mohamedsamra321@gmail.com" target="_blank">
+    <a href="mailto:mohamedsamra321@gmail.com" target="_blank">
    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /> 
   </a>
 </p>
