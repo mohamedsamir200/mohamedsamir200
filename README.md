@@ -10,6 +10,8 @@
 
 🎓 &nbsp;I'm Front-End Developer
 
+ <img src="https://github.com/Mohammed-Nasif/Mohammed-Nasif/blob/main/images/iti-logo.png?raw=true" width="15" draggable="false"> ITI Graduate from <a href="https://iti.gov.eg/iti/home">Front‑End Development Track</a>
+
 💪 &nbsp; I’m looking to collaborate on new projects
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
@@ -25,7 +27,7 @@
 ##  🛠  Tech Stack
 
 <p>
-
+ 
  <img alt="html5" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" />
  <img alt="CSS" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" />
  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
