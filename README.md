@@ -23,29 +23,45 @@
 📫  &nbsp; How to reach me : mohamedsamra321@gmail.com
 
 <hr>
+<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> My Skills</f2>
 
-##  🛠  Tech Stack
+#### Technical
 
-<p>
- 
- <img alt="html5" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" />
- <img alt="CSS" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" />
- <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
- <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
- <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" />
- <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C" />
- <img alt="oop" src="https://img.shields.io/badge/-oop-05122A?style=flat&logo=oop" />
- <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
- <img alt="jquery" src="https://img.shields.io/badge/-jqury-05122A?style=flat&logo=jquery" />
- <img alt="react" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" />
+<div align="center">
+ <code><img title = "HTML5" src="https://skillicons.dev/icons?i=html" width="45px"/></code>
+<code><img title = "CSS3" src="https://skillicons.dev/icons?i=css" width="45px"/></code>
+<code><img title = "Javascript" src="https://skillicons.dev/icons?i=javascript" width="45px"/></code>
+<code><img title = "Typescript" src="https://skillicons.dev/icons?i=typescript" width="45px"/></code>
+<code><img title = "React.js" src="https://skillicons.dev/icons?i=react" width="45px"/></code>
+<code><img title = "Redux" src="https://skillicons.dev/icons?i=redux" width="45px"/></code>
+<code><img title = "Next" src="https://skillicons.dev/icons?i=next" width="45px"/></code>
+<code><img title = "jquery" src="https://skillicons.dev/icons?i=jquery" width="45px"/></code>
+<!-- <code><img src="https://skillicons.dev/icons?i=jest" width="45px"/></code> -->
+<!-- <code><img src="https://skillicons.dev/icons?i=angular" width="45px"/></code> -->
 
-
-
-
-</p>
+<!-- <code><img src="https://skillicons.dev/icons?i=sass" width="45px"/></code> -->
+<code><img title = "Boostrap" src="https://skillicons.dev/icons?i=bootstrap" width="45px"/></code>
+<code><img title = "Materialui" src="https://skillicons.dev/icons?i=materialui" width="45px"/></code>
+<code><img title = "Tailwind" src="https://skillicons.dev/icons?i=tailwind" width="45px"/></code>
+<code><img title = "Firebase" src="https://skillicons.dev/icons?i=firebase" width="45px"/></code>
+<!-- <code><img src="https://skillicons.dev/icons?i=cpp" width="45px"/></code> -->
+</div>
+<br />
 
 <hr>
+ Softwares and Tools
 
+<div align="center">
+<code><img title = "Git" src="https://skillicons.dev/icons?i=git" width="45px"/></code>
+<code><img title = "Vscode" src="https://skillicons.dev/icons?i=vscode" width="45px"/></code>
+<code><img title = "Figma" src="https://skillicons.dev/icons?i=figma" width="45px"/></code>
+<!-- <code><img src="https://skillicons.dev/icons?i=xd" width="45px"/></code>
+<code><img src="https://skillicons.dev/icons?i=ps" width="45px"/></code>
+<code><img src="https://skillicons.dev/icons?i=heroku" width="45px"/></code>
+<code><img src="https://skillicons.dev/icons?i=githubactions" width="45px"/></code>
+<code><img src="https://skillicons.dev/icons?i=latex" width="45px"/></code> -->
+</div>
+<br />
 </p>
 
 ## Contact with me on
